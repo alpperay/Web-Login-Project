@@ -1,0 +1,193 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  outline: none;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(
+    90deg,
+    rgba(8, 11, 11, 1) 1%,
+    rgba(14, 44, 52, 1) 99%
+  );
+}
+
+.form {
+  width: 400px;
+  height: auto;
+  background-color: white;
+  margin: 15px 0 auto;
+  box-shadow: 0 0 25px cornflowerblue;
+  text-align: center;
+  padding: 30px;
+}
+
+.form h3 {
+  padding: 25px;
+  font-size: 25px;
+}
+
+.form form label[for="email"] {
+  font-size: 25px;
+  color: blue;
+}
+
+.form form label[for="password"] {
+  font-size: 25px;
+  color: blue;
+}
+
+.form form input[type="email"] {
+  border: 1px solid black;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+.form form input[type="password"] {
+  border: 1px solid black;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+.form form input[type="checkbox"] {
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 5px;
+}
+
+.form form input[type="checkbox"]:hover {
+  transform: scale(1.1);
+}
+
+.form form a {
+  color: blue;
+}
+
+.form form input[type="email"]:focus {
+  border: 2px solid blue;
+  box-shadow: 0 0 10px blue;
+}
+
+.form form input[type="password"]:focus {
+  border: 2px solid blue;
+  box-shadow: 0 0 10px blue;
+}
+
+.form form input[type="submit"] {
+  width: 90%;
+  height: 50px;
+  background-color: blue;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.form form input[type="submit"]:focus {
+  box-shadow: 0 0 25px cornflowerblue;
+}
+
+.form form button {
+  background-color: cornflowerblue;
+  border: none;
+  width: 70%;
+  height: 50px;
+  cursor: pointer;
+  color: white;
+  font-size: 17px;
+}
+
+.yan-secenekler h1 {
+  margin: 10px 0 25px;
+}
+
+.yan-secenekler .box {
+  clear: both;
+  background: linear-gradient(
+    90deg,
+    rgba(85, 85, 115, 1) 16%,
+    rgba(25, 28, 73, 1) 85%
+  );
+  width: 100%;
+  height: 70px;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  margin: 15px;
+}
+
+.yan-secenekler .box img {
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin: 5px;
+}
+
+.box:hover {
+  cursor: pointer;
+  box-shadow: 0 0 15px blue;
+}
+
+.box .text {
+  color: white;
+  padding: 10px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin: 10px;
+}
+
+footer {
+  width: 100%;
+  height: auto;
+  padding: 5px 0;
+  background: #0e2c34;
+  color: white;
+  position: relative;
+  margin: 20px;
+}
+
+footer h5 {
+  margin: 15px 0 20px 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+.social-icons a {
+  width: 3em;
+  height: 3em;
+  border-radius: 50%;
+  border: 1px solid blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 20px;
+  color: blue;
+}
+
+.social-icons a:hover {
+  background: black;
+  color: white;
+  box-shadow: 0 0 25px blue;
+}
