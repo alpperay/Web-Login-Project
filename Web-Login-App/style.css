@@ -110,6 +110,7 @@ body {
   cursor: pointer;
   color: white;
   font-size: 17px;
+  border-radius: 10px;
 }
 
 .yan-secenekler h1 {
@@ -139,7 +140,7 @@ body {
   margin: 5px;
 }
 
-.box:hover {
+.yan-secenekler .box:hover {
   cursor: pointer;
   box-shadow: 0 0 15px blue;
 }
