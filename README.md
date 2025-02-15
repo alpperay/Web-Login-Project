@@ -1,6 +1,7 @@
 # Web | Login Application
 
-Bu proje, kullanıcıların e-posta ve şifre ile giriş yapabileceği bir login sayfası tasarımını içeriyor. Aynı zamanda sosyal medya hesaplarıyla da giriş yapılmasına olanak sağlar.
+- Bu proje, kullanıcıların e-posta ve şifre ile giriş yapabileceği bir login sayfası tasarımını içeriyor.
+- Aynı zamanda sosyal medya hesaplarıyla da giriş yapılmasına olanak sağlar.
 
 ## Özellikler:
 
