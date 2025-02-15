@@ -54,10 +54,12 @@ git clone <repo-url>
 
  ## Ekran Görüntüleri
 
- - Ana Ekran
+**Ana Ekran**
+
  ![github screen1](https://github.com/user-attachments/assets/5fbc0cb7-a755-4e72-816a-1a7d1dd3db42)
  
-- Footer
+**Footer**
+
 ![github screen2](https://github.com/user-attachments/assets/19d2da50-d266-4484-902b-036045488675)
 
 ## Lisans
