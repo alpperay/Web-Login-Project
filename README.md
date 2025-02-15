@@ -32,6 +32,13 @@
     - "2025 Alp Eray Taşçı &copy; Tüm Hakları Saklıdır." ifadesi yer alır.
     - GitHub, Instagram, LinkedIn, ve Twitter sosyal medya ikonları içerir.
  
+## Sosyal Medya Bağlantıları
+
+- [Instagram](https://instagram.com/alperaytasci)
+- [GitHub](https://github.com/alpperay)
+- [LinkedIn](https://linkedin.com/alperaytasci)
+- [Twitter](https://x.com/alperaytasci)
+ 
 ## Kullanım
 
 Proje dosyasını kullanmaya başlamak için aşağıdaki adımları izleyebilirsiniz:
