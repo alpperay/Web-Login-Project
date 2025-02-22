@@ -56,14 +56,14 @@ git clone <repo-url>
 
 **Ana Ekran**
 
- ![github screen1](https://github.com/user-attachments/assets/5fbc0cb7-a755-4e72-816a-1a7d1dd3db42)
- 
-**Footer**
+![github sc1](https://github.com/user-attachments/assets/f90475fa-3fee-459d-9192-0860c1d28b4d)
 
-![github screen2](https://github.com/user-attachments/assets/19d2da50-d266-4484-902b-036045488675)
+**Footer & Yan Seçenekler**
+
+![github sc2](https://github.com/user-attachments/assets/89e4cadc-d449-40d0-9485-6549cd4be782)
 
 ## Lisans
-2025 Alp Eray Taşçı &copy; Tüm Hakları Saklıdır.
+MIT Lisansı | 2025 Alp Eray Taşçı &copy; Tüm Hakları Saklıdır.
 
 ## Katkı
 Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
