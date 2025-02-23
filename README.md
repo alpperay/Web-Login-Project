@@ -62,6 +62,10 @@ git clone <repo-url>
 
 ![github sc2](https://github.com/user-attachments/assets/89e4cadc-d449-40d0-9485-6549cd4be782)
 
+## Geliştirici & Yazar
+
+**Alp Eray Taşçı**
+
 ## Lisans
 MIT Lisansı | 2025 Alp Eray Taşçı &copy; Tüm Hakları Saklıdır.
 
